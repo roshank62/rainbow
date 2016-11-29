@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <!-- inject:css -->
+    <!-- endinject -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <script src="/node_modules/angular/angular.js"></script>
+   <!-- <script src="/node_modules/auth0-angular/build/auth0-angular.js"></script>
+    <script src="/bower_components/auth0-lock/build/auth0-lock.js"></script>
+    <script src="/node_modules/angular-jwt/dist/angular-jwt.js"></script>
+    <script src="/node_modules/angular-storage/dist/angular-storage.js"></script>-->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+</head>
+<body ng-app="y">
+<!-- Google Tag Manager
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id="
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    (function(w,d,s,l,i)
+    {w[l]=w[l]||[];w[l].push(
+            {
+                'gtm.start': new Date().getTime(),event:'gtm.js'
+            });
+        var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;
+        f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','');</script>
+<!-- End Google Tag Manager -->
+<div id="mainApp">
+    <div class="container-fluid header">
+        <div class="row-fluid">
+            <div class="col-md-12 support-content">
+                <img src="../assets/images/Mathletics-logos.png">
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row-fluid">
+
+            <div id="form-views" class="col-md-12">
+                <ui-view></ui-view>
+            </div>
+
+        </div>
+    </div>
+    <div class="container-fluid footer">
+        <div class="row-fluid ">
+            <div class="col-md-12 support-content">
+            </div>
+
+
+        </div>
+    </div>
+</div>
+<!-- inject:js -->
+<!-- endinject -->
+<!--<busy-spinner></busy-spinner>-->
+</body>
+</html>

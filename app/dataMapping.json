@@ -1,0 +1,105 @@
+{
+  "ID": 465,
+  "Level": 1,
+  "Type": 1,
+  "Method": 0,
+  "Headings": [
+    {
+      "ID": "questionLine",
+      "Content": null,
+      "lines": [
+        [
+          {
+            "ID": "actQuestionText0",
+            "Content": ""
+          }
+        ]
+      ],
+      "hints": [
+        []
+      ],
+      "locked": true
+    },
+    {
+      "ID": "actVisualSpeech0",
+      "Content": "false",
+      "lines": [
+        [
+          {
+            "ID": "actVisualText0",
+            "Content": ""
+          }
+        ],
+        [
+          {
+            "ID": "actVisualText1",
+            "Content": "false"
+          }
+        ],
+        [
+          {
+            "ID": "actVisualText2",
+            "Content": ""
+          }
+        ]
+      ],
+      "hints": [
+        [
+          {
+            "ID": "actVisualText0",
+            "Content": ""
+          },
+          {
+            "ID": "actVisualText1",
+            "Content": "false"
+          }
+        ]
+      ],
+      "locked": false
+    },
+    {
+      "ID": "actVisualSpeech2",
+      "Content": "false",
+      "lines": [
+        [
+          {
+            "ID": "actVisualText0",
+            "Content": "false"
+          },
+          {
+            "ID": "actVisualText3",
+            "Content": "false"
+          }
+        ]
+      ],
+      "hints": [
+        [
+          {
+            "ID": "actVisualText5",
+            "Content": ""
+          },
+          {
+            "ID": "actVisualText6",
+            "Content": "false"
+          }
+        ]
+      ],
+      "locked": false
+    },
+    {
+      "ID": "actVisualSpeech3",
+      "Content": "false",
+      "lines": [
+        [
+          {
+            "ID": "actVisualText4",
+            "Content": ""
+          }
+        ]
+      ],
+      "hints": [],
+      "locked": false
+    }
+  ],
+  "RequiredChanges": "none"
+}

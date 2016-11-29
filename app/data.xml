@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xml>
+    <ActivityData>
+        <actActivityID>422</actActivityID>
+        <actGUID>{014996d4-c7e4-148e-15da-fdae6752eef6}</actGUID>
+        <actDifficultyLevel>1</actDifficultyLevel>
+        <actQuestionType>2</actQuestionType>
+        <actQuestionSelect></actQuestionSelect>
+        <actQuestionText0>Alex scored 20% in his Math test.</actQuestionText0>
+        <actQuestionText1>If the test was out of 45, what was his score?</actQuestionText1>
+        <actQuestionText2>Score =</actQuestionText2>
+        <actQuestionText3>n/a</actQuestionText3>
+        <actQuestionHash>2,2,45,9,20</actQuestionHash>
+        <actQuestionSoundFile></actQuestionSoundFile>
+        <actAnswerEnglish0>9</actAnswerEnglish0>
+        <actAnswerLocal0>9</actAnswerLocal0>
+        <actAnswerHashEnglish>9</actAnswerHashEnglish>
+        <actAnswerHashLocal>9</actAnswerHashLocal>
+        <actAnswerSoundFile></actAnswerSoundFile>
+        <actVisualSteps>7</actVisualSteps>
+        <actVisualSpeech0>Find the percentage of the amount.</actVisualSpeech0>
+        <actVisualSpeech1>Calculate the value.</actVisualSpeech1>
+        <actVisualSpeech2>Write your answer in a sentence.</actVisualSpeech2>
+        <actVisualText0>20% of 45 =</actVisualText0>
+        <actVisualText1>20% × 45</actVisualText1>
+        <actVisualText2>= 0.2 × 45</actVisualText2>
+        <actVisualText3>= 9</actVisualText3>
+        <actVisualText4></actVisualText4>
+        <actVisualText5></actVisualText5>
+        <actVisualText6>∴ Alex scored 9 out of 45.</actVisualText6>
+        <actVisualSoundFile></actVisualSoundFile>
+    </ActivityData>
+</xml>

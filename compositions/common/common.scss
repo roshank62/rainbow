@@ -1,0 +1,13 @@
+@import "../compositions/common/font.scss";
+
+@-ms-viewport {
+  width: device-width;
+}
+
+* {
+  outline: 0 !important;
+}
+
+.container-fluid {
+  max-width: 1536px;
+}
